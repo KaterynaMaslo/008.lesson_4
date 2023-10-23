@@ -1,0 +1,35 @@
+section{
+    display: flex;
+    background-color: lavender;
+}
+.categories {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    border: 1px solid;
+  }
+
+.products {
+    float: left;
+    width: 40%;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.product-info {
+    float: left;
+    width: 40%;
+    padding: 10px;
+    border: 1px solid;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    margin: 5px 0;
+}
+  
